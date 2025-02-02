@@ -1,59 +1,46 @@
+<h2><a href="https://leetcode.com/problems/rearrange-spaces-between-words/">1592. Rearrange Spaces Between Words</a></h2>
+<h3>Easy</h3>
+<hr>
+<div>
+<p>You are given a string <code>text</code> consisting of words separated by <strong>exactly</strong> one space. Your task is to rearrange the spaces so that:</p>
 
-# LeetCode 1592: Rearrange Spaces Between Words
-**Easy**
+<ul>
+    <li>The spaces between words are distributed as evenly as possible.</li>
+    <li>If the number of spaces cannot be evenly distributed, the extra spaces should be placed at the end of the string.</li>
+</ul>
 
-You are given a string `text` consisting of words separated by **exactly** one space. Your task is to rearrange the spaces so that:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-1. The spaces between words are distributed as evenly as possible.
-2. If the number of spaces cannot be evenly distributed, the extra spaces should be placed at the end of the string.
+<pre><strong>Input:</strong> text = "  this   is  a sentence "
+<strong>Output:</strong> "this   is   a   sentence"
+<strong>Explanation:</strong> There are <code>9</code> spaces and <code>4</code> words. Each gap between words gets <code>3</code> spaces. No extra spaces remain.
+</pre>
 
-### Example 1:
-**Input:**
-```plaintext
-text = "  this   is  a sentence "
-```
-**Output:**
-```plaintext
-"this   is   a   sentence"
-```
-**Explanation:**
-- There are `9` spaces and `4` words.
-- `9 / (4-1) = 3` spaces between each word.
-- No extra spaces at the end.
+<p><strong class="example">Example 2:</strong></p>
 
-### Example 2:
-**Input:**
-```plaintext
-text = " practice   makes   perfect"
-```
-**Output:**
-```plaintext
-"practice   makes   perfect "
-```
-**Explanation:**
-- There are `7` spaces and `3` words.
-- `7 / (3-1) = 3` spaces between each word.
-- `7 % (3-1) = 1` extra space at the end.
+<pre><strong>Input:</strong> text = " practice   makes   perfect"
+<strong>Output:</strong> "practice   makes   perfect "
+<strong>Explanation:</strong> There are <code>7</code> spaces and <code>3</code> words. Each gap gets <code>3</code> spaces, and there is <code>1</code> extra space at the end.
+</pre>
 
-### Constraints:
-- `1 <= text.length <= 100`
-- `text` consists of lowercase English letters and spaces `' '`.
-- `text` contains at least one word.
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+<ul>
+    <li><code>1 &lt;= text.length &lt;= 100</code></li>
+    <li><code>text</code> consists of lowercase English letters and spaces <code>' '</code>.</li>
+    <li><code>text</code> contains at least one word.</li>
+</ul>
 
----
+<p>&nbsp;</p>
+<strong>Solution Approach:</strong>
+<p>1. Extract words using <code>split()</code> to separate them while handling spaces.</p>
+<p>2. Count the total spaces in the input string.</p>
+<p>3. Calculate the number of spaces between words and handle any remaining spaces.</p>
+<p>4. Reconstruct the string by placing calculated spaces between the words and any remaining spaces at the end.</p>
 
-### Solution Approach
-
-1. **Extract Words**: Use `split()` to separate words while preserving spaces.
-2. **Count Spaces**: Count total spaces in the input string.
-3. **Distribute Spaces**:
-   - If more than one word, divide spaces evenly between words.
-   - Any remaining spaces are added at the end.
-4. **Reconstruct the String**: Join words with calculated spaces and return the result.
-
-### Code Implementation (Java)
-
-```java
+<p><strong class="example">Code Implementation (Java):</strong></p>
+<pre><code>
 class Solution {
     public String reorderSpaces(String text) {
         // Count the number of spaces in the text
@@ -85,45 +72,27 @@ class Solution {
         return ans.toString();
     }
 }
-```
+</code></pre>
 
----
+<p>&nbsp;</p>
+<p><strong>Time Complexity:</strong> <code>O(N)</code>, where <code>N</code> is the length of the input string. The algorithm iterates over the string to count spaces, split words, and build the final string.</p>
+<p><strong>Space Complexity:</strong> <code>O(N)</code>, as the algorithm stores the words in a list and the reconstructed string in memory.</p>
 
-### Complexity Analysis
+<p>&nbsp;</p>
+<p><strong class="example">Test Case 1:</strong></p>
+<pre><strong>Input:</strong> text = "  this   is  a sentence "
+<strong>Output:</strong> "this   is   a   sentence"
+</pre>
 
-- **Time Complexity**: \(O(N)\), where \(N\) is the length of the input string. The algorithm iterates over the string to count spaces, split words, and build the final string.
-- **Space Complexity**: \(O(N)\), as the algorithm stores the words in a list and the reconstructed string in memory.
+<p><strong class="example">Test Case 2:</strong></p>
+<pre><strong>Input:</strong> text = " practice   makes   perfect"
+<strong>Output:</strong> "practice   makes   perfect "
+</pre>
 
----
+<p>&nbsp;</p>
+<strong>Summary:</strong>
+<p>This problem is about redistributing spaces between words to make the distribution as even as possible while handling any remaining spaces by placing them at the end of the string. The solution approach focuses on counting spaces, dividing them evenly, and handling extra spaces in the most efficient manner.</p>
 
-### Test Cases
-
-### Test Case 1:
-**Input:**
-```plaintext
-text = "  this   is  a sentence "
-```
-**Output:**
-```plaintext
-"this   is   a   sentence"
-```
-
-### Test Case 2:
-**Input:**
-```plaintext
-text = " practice   makes   perfect"
-```
-**Output:**
-```plaintext
-"practice   makes   perfect "
-```
-
----
-
-### Summary
-
-This problem is about redistributing spaces between words to make the distribution as even as possible while handling any remaining spaces by placing them at the end of the string. The solution approach focuses on counting spaces, dividing them evenly, and handling extra spaces in the most efficient manner.
-
----
-
-Happy Coding! 🚀
+<p>&nbsp;</p>
+<p>Happy Coding! 🚀</p>
+</div>
