@@ -1,6 +1,3 @@
-Got it! Here's the README file for LeetCode question **1592. Rearrange Spaces Between Words**, formatted in a similar style to the "Two Sum" question:
-
-```markdown
 # LeetCode 1592: Rearrange Spaces Between Words
 **Easy**
 
@@ -115,8 +112,3 @@ text = " practice   makes   perfect"
 This problem is about redistributing spaces between words to make the distribution as even as possible while handling any remaining spaces by placing them at the end of the string. The solution approach focuses on counting spaces, dividing them evenly, and handling extra spaces in the most efficient manner.
 
 ---
-
-Happy Coding! 🚀
-```
-
-Let me know if you'd like any adjustments!
