@@ -127,4 +127,3 @@ This problem is about redistributing spaces between words to make the distributi
 ---
 
 Happy Coding! 🚀
-```
