@@ -1,3 +1,5 @@
+
+```markdown
 # LeetCode 1592: Rearrange Spaces Between Words
 **Easy**
 
@@ -50,35 +52,47 @@ text = " practice   makes   perfect"
    - Any remaining spaces are added at the end.
 4. **Reconstruct the String**: Join words with calculated spaces and return the result.
 
-### Code Implementation (Python)
+### Code Implementation (Java)
 
-```python
-def reorderSpaces(text: str) -> str:
-    # Split the text into words
-    words = text.split()
-    
-    # Count total number of spaces in the original string
-    total_spaces = text.count(" ")
-    
-    # If there is only one word, return that word with all spaces at the end
-    if len(words) == 1:
-        return words[0] + " " * total_spaces
-    
-    # Calculate the space between words
-    space_between = total_spaces // (len(words) - 1)
-    
-    # Calculate the remaining spaces to be added at the end
-    extra_space = total_spaces % (len(words) - 1)
-    
-    # Join the words with the calculated spaces and return the result
-    return (" " * space_between).join(words) + " " * extra_space
+```java
+class Solution {
+    public String reorderSpaces(String text) {
+        // Count the number of spaces in the text
+        int white = 0;
+        for (int i = 0; i < text.length(); i++) {
+            if (text.charAt(i) == ' ') white++;
+        }
+        
+        // Split the text into words
+        String words[] = text.trim().split("\\s+");
+        
+        // Calculate space between words and extra space at the end
+        int space = words.length > 1 ? white / (words.length - 1) : 0;
+        int ex = words.length > 1 ? white % (words.length - 1) : white;
+        
+        StringBuilder ans = new StringBuilder();
+        
+        // Add words with the calculated spaces between them
+        for (int i = 0; i < words.length; i++) {
+            ans.append(words[i]);
+            if (i != words.length - 1)
+                for (int j = 0; j < space; j++)
+                    ans.append(" ");
+        }
+        
+        // Add any remaining spaces at the end
+        for (int i = 0; i < ex; i++) ans.append(" ");
+        
+        return ans.toString();
+    }
+}
 ```
 
 ---
 
 ### Complexity Analysis
 
-- **Time Complexity**: \(O(N)\), where \(N\) is the length of the input string. The algorithm iterates over the string to split words, count spaces, and join the words back with the spaces.
+- **Time Complexity**: \(O(N)\), where \(N\) is the length of the input string. The algorithm iterates over the string to count spaces, split words, and build the final string.
 - **Space Complexity**: \(O(N)\), as the algorithm stores the words in a list and the reconstructed string in memory.
 
 ---
@@ -112,3 +126,6 @@ text = " practice   makes   perfect"
 This problem is about redistributing spaces between words to make the distribution as even as possible while handling any remaining spaces by placing them at the end of the string. The solution approach focuses on counting spaces, dividing them evenly, and handling extra spaces in the most efficient manner.
 
 ---
+
+Happy Coding! 🚀
+```
