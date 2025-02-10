@@ -13,3 +13,15 @@ This repository contains my **daily DSA practice** to enhance problem-solving sk
 - 📊 Tracking **progress and consistency**
 
 Stay tuned for updates! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
+## Simulation
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
+<!---LeetCode Topics End-->
