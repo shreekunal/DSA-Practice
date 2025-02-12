@@ -23,6 +23,7 @@ Stay tuned for updates! 🚀
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
@@ -37,6 +38,7 @@ Stay tuned for updates! 🚀
 | [0001-two-sum](https://github.com/shreekunal/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
