@@ -24,11 +24,13 @@ Stay tuned for updates! 🚀
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
 ## Simulation
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +69,8 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
