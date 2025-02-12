@@ -20,6 +20,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreekunal/DSA-Practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -88,6 +89,7 @@ Stay tuned for updates! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 ## Bit Manipulation
