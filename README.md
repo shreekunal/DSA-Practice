@@ -56,6 +56,7 @@ Stay tuned for updates! 🚀
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
 | ------- |
