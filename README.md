@@ -42,6 +42,7 @@ Stay tuned for updates! 🚀
 | [0001-two-sum](https://github.com/shreekunal/DSA-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 ## Greedy
@@ -67,6 +69,7 @@ Stay tuned for updates! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Matrix
