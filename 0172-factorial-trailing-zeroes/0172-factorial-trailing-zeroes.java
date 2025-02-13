@@ -2,7 +2,11 @@ import java.math.BigInteger;
 
 class Solution {
     public int trailingZeroes(int n) {
-        if(n<5) return 0;
-        return n/5 + trailingZeroes(n/5);
+        int count = 0;
+        while(n >= 5){
+            count += n / 5;
+            n /= 5;
+        }
+        return count;
     }
 }
