@@ -53,6 +53,7 @@ Stay tuned for updates! 🚀
 | [0172-factorial-trailing-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## String
@@ -86,6 +87,7 @@ Stay tuned for updates! 🚀
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +114,7 @@ Stay tuned for updates! 🚀
 | ------- |
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
