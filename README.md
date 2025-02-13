@@ -24,6 +24,7 @@ Stay tuned for updates! 🚀
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -43,6 +44,7 @@ Stay tuned for updates! 🚀
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Matrix
@@ -104,12 +107,14 @@ Stay tuned for updates! 🚀
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreekunal/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
