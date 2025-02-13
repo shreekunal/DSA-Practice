@@ -47,6 +47,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/shreekunal/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
