@@ -50,6 +50,7 @@ Stay tuned for updates! 🚀
 | [0009-palindrome-number](https://github.com/shreekunal/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## String
@@ -79,6 +80,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -103,6 +105,7 @@ Stay tuned for updates! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
