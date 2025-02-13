@@ -24,6 +24,7 @@ Stay tuned for updates! 🚀
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@ Stay tuned for updates! 🚀
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
