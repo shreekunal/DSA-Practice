@@ -55,6 +55,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 ## Greedy
 |  |
@@ -90,6 +91,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
