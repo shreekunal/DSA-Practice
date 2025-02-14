@@ -49,6 +49,7 @@ Stay tuned for updates! 🚀
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ Stay tuned for updates! 🚀
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
+| [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
 ## Greedy
 |  |
 | ------- |
