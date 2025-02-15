@@ -63,6 +63,7 @@ Stay tuned for updates! 🚀
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
+| [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
@@ -101,6 +102,7 @@ Stay tuned for updates! 🚀
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -132,6 +134,7 @@ Stay tuned for updates! 🚀
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
 | ------- |
