@@ -29,6 +29,7 @@ Stay tuned for updates! 🚀
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -50,6 +51,7 @@ Stay tuned for updates! 🚀
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -98,6 +100,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -148,4 +151,12 @@ Stay tuned for updates! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreekunal/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
