@@ -31,6 +31,7 @@ Stay tuned for updates! 🚀
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/shreekunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -57,6 +58,7 @@ Stay tuned for updates! 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreekunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -88,6 +90,7 @@ Stay tuned for updates! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Sorting
 |  |
@@ -97,6 +100,7 @@ Stay tuned for updates! 🚀
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Matrix
@@ -121,11 +125,13 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Two Pointers
 |  |
