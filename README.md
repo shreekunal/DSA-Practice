@@ -81,6 +81,7 @@ Stay tuned for updates! 🚀
 | [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2752-sum-multiples](https://github.com/shreekunal/DSA-Practice/tree/master/2752-sum-multiples) |
 ## String
 |  |
 | ------- |
