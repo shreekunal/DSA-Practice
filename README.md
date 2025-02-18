@@ -65,6 +65,7 @@ Stay tuned for updates! 🚀
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shreekunal/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Stay tuned for updates! 🚀
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Stay tuned for updates! 🚀
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
