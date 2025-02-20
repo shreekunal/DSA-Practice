@@ -41,6 +41,7 @@ Stay tuned for updates! 🚀
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Stay tuned for updates! 🚀
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2752-sum-multiples](https://github.com/shreekunal/DSA-Practice/tree/master/2752-sum-multiples) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
