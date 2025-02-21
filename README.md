@@ -96,6 +96,7 @@ Stay tuned for updates! 🚀
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1156-occurrences-after-bigram](https://github.com/shreekunal/DSA-Practice/tree/master/1156-occurrences-after-bigram) |
 | [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
+| [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Greedy
 |  |
@@ -153,6 +154,7 @@ Stay tuned for updates! 🚀
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
