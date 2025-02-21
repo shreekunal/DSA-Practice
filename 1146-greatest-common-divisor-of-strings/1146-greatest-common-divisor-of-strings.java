@@ -3,10 +3,11 @@ class Solution {
         if (!(str1 + str2).equals(str2 + str1))
             return "";
         int len = gcd(str1.length(), str2.length());
-        return str1.substring(0, len);
+        return str2.substring(0, len);
     }
 
     public int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a % b);
+        if(b == 0) return a;
+        else return gcd(b, a % b);
     }
 }
