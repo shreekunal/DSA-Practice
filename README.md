@@ -26,6 +26,7 @@ Stay tuned for updates! 🚀
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreekunal/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0283-move-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -152,6 +153,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shreekunal/DSA-Practice/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
