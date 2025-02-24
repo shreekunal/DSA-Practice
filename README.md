@@ -25,6 +25,7 @@ Stay tuned for updates! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreekunal/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/shreekunal/DSA-Practice/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/shreekunal/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -172,6 +173,7 @@ Stay tuned for updates! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shreekunal/DSA-Practice/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
@@ -216,4 +218,8 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shreekunal/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
