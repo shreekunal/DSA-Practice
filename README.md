@@ -131,6 +131,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shreekunal/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
