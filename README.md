@@ -98,6 +98,7 @@ Stay tuned for updates! 🚀
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shreekunal/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/shreekunal/DSA-Practice/tree/master/1156-occurrences-after-bigram) |
@@ -161,6 +162,7 @@ Stay tuned for updates! 🚀
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -185,6 +187,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreekunal/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
