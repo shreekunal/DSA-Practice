@@ -83,6 +83,7 @@ Stay tuned for updates! 🚀
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/shreekunal/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0227-basic-calculator-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
@@ -97,6 +98,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -234,6 +236,7 @@ Stay tuned for updates! 🚀
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/shreekunal/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
