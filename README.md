@@ -93,6 +93,7 @@ Stay tuned for updates! 🚀
 | [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shreekunal/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2752-sum-multiples](https://github.com/shreekunal/DSA-Practice/tree/master/2752-sum-multiples) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -199,11 +200,13 @@ Stay tuned for updates! 🚀
 | [0118-pascals-triangle](https://github.com/shreekunal/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreekunal/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Design
 |  |
 | ------- |
