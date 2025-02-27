@@ -1,17 +1,17 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> li = new ArrayList<>();
+        List<List<Integer>> tri = new ArrayList<>();
         for (int i = 0; i < numRows; i++) {
             List<Integer> row = new ArrayList<>();
             for (int j = 0; j <= i; j++) {
                 if (j == 0 || j == i) {
                     row.add(1);
                 } else {
-                    row.add(li.get(i - 1).get(j - 1) + li.get(i - 1).get(j));
+                    row.add(tri.get(i - 1).get(j - 1) + tri.get(i - 1).get(j));
                 }
             }
-            li.add(row);
+            tri.add(row);
         }
-        return li;
+        return tri;
     }
 }
