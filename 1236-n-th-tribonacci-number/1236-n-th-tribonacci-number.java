@@ -10,7 +10,6 @@ class Solution {
             c = d;
         }
         return c;
-        // // TLE
-        // return tribonacci(n-1)+tribonacci(n-2)+tribonacci(n-3);
+        // return tribonacci(n-1)+tribonacci(n-2)+tribonacci(n-3); //TLE
     }
 }
