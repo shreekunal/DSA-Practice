@@ -26,6 +26,7 @@ Stay tuned for updates! 🚀
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shreekunal/DSA-Practice/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/shreekunal/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shreekunal/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -195,6 +196,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreekunal/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shreekunal/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Memoization
