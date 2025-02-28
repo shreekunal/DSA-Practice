@@ -107,6 +107,7 @@ Stay tuned for updates! 🚀
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/shreekunal/DSA-Practice/tree/master/0394-decode-string) |
 | [0539-minimum-time-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shreekunal/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/shreekunal/DSA-Practice/tree/master/1156-occurrences-after-bigram) |
@@ -151,6 +152,7 @@ Stay tuned for updates! 🚀
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/shreekunal/DSA-Practice/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -246,6 +248,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/shreekunal/DSA-Practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shreekunal/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
