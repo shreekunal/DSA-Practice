@@ -26,6 +26,7 @@ Stay tuned for updates! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreekunal/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreekunal/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shreekunal/DSA-Practice/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/shreekunal/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/shreekunal/DSA-Practice/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shreekunal/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -129,6 +130,7 @@ Stay tuned for updates! 🚀
 | ------- |
 | [0015-3sum](https://github.com/shreekunal/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreekunal/DSA-Practice/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/shreekunal/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/shreekunal/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
