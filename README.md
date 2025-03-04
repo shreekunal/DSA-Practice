@@ -129,6 +129,7 @@ Stay tuned for updates! 🚀
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
+| [3207-make-three-strings-equal](https://github.com/shreekunal/DSA-Practice/tree/master/3207-make-three-strings-equal) |
 ## Greedy
 |  |
 | ------- |
