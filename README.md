@@ -133,6 +133,7 @@ Stay tuned for updates! 🚀
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/shreekunal/DSA-Practice/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3207-make-three-strings-equal](https://github.com/shreekunal/DSA-Practice/tree/master/3207-make-three-strings-equal) |
