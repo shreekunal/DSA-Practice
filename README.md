@@ -53,6 +53,7 @@ Stay tuned for updates! 🚀
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
@@ -131,6 +132,7 @@ Stay tuned for updates! 🚀
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3207-make-three-strings-equal](https://github.com/shreekunal/DSA-Practice/tree/master/3207-make-three-strings-equal) |
@@ -207,6 +209,7 @@ Stay tuned for updates! 🚀
 | [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
