@@ -107,6 +107,7 @@ Stay tuned for updates! 🚀
 | [1236-n-th-tribonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2748-calculate-delayed-arrival-time](https://github.com/shreekunal/DSA-Practice/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/shreekunal/DSA-Practice/tree/master/2752-sum-multiples) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
