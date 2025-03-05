@@ -55,6 +55,7 @@ Stay tuned for updates! 🚀
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -139,6 +140,7 @@ Stay tuned for updates! 🚀
 | [0605-can-place-flowers](https://github.com/shreekunal/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Stay tuned for updates! 🚀
 | [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
