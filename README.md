@@ -45,6 +45,7 @@ Stay tuned for updates! 🚀
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1293-three-consecutive-odds](https://github.com/shreekunal/DSA-Practice/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shreekunal/DSA-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1611-making-file-names-unique](https://github.com/shreekunal/DSA-Practice/tree/master/1611-making-file-names-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
