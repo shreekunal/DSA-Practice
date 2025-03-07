@@ -171,6 +171,7 @@ Stay tuned for updates! 🚀
 | [0002-add-two-numbers](https://github.com/shreekunal/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shreekunal/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreekunal/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/shreekunal/DSA-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
@@ -209,6 +210,7 @@ Stay tuned for updates! 🚀
 | [0344-reverse-string](https://github.com/shreekunal/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shreekunal/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/shreekunal/DSA-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
