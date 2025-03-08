@@ -47,6 +47,7 @@ Stay tuned for updates! 🚀
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shreekunal/DSA-Practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-three-consecutive-odds](https://github.com/shreekunal/DSA-Practice/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shreekunal/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shreekunal/DSA-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1611-making-file-names-unique](https://github.com/shreekunal/DSA-Practice/tree/master/1611-making-file-names-unique) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -110,6 +111,7 @@ Stay tuned for updates! 🚀
 | [1013-fibonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shreekunal/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1236-n-th-tribonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shreekunal/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shreekunal/DSA-Practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
