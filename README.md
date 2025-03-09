@@ -69,6 +69,7 @@ Stay tuned for updates! 🚀
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Stay tuned for updates! 🚀
 | [2748-calculate-delayed-arrival-time](https://github.com/shreekunal/DSA-Practice/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/shreekunal/DSA-Practice/tree/master/2752-sum-multiples) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Stay tuned for updates! 🚀
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3207-make-three-strings-equal](https://github.com/shreekunal/DSA-Practice/tree/master/3207-make-three-strings-equal) |
 | [3541-report-spam-message](https://github.com/shreekunal/DSA-Practice/tree/master/3541-report-spam-message) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -301,4 +304,12 @@ Stay tuned for updates! 🚀
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreekunal/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
