@@ -61,6 +61,7 @@ Stay tuned for updates! 🚀
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/shreekunal/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 | [3541-report-spam-message](https://github.com/shreekunal/DSA-Practice/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -172,6 +173,7 @@ Stay tuned for updates! 🚀
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
+| [3430-count-days-without-meetings](https://github.com/shreekunal/DSA-Practice/tree/master/3430-count-days-without-meetings) |
 ## Matrix
 |  |
 | ------- |
