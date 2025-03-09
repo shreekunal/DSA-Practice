@@ -61,6 +61,7 @@ Stay tuned for updates! 🚀
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
+| [3541-report-spam-message](https://github.com/shreekunal/DSA-Practice/tree/master/3541-report-spam-message) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shreekunal/DSA-Practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
@@ -94,6 +95,7 @@ Stay tuned for updates! 🚀
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3541-report-spam-message](https://github.com/shreekunal/DSA-Practice/tree/master/3541-report-spam-message) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Stay tuned for updates! 🚀
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3207-make-three-strings-equal](https://github.com/shreekunal/DSA-Practice/tree/master/3207-make-three-strings-equal) |
+| [3541-report-spam-message](https://github.com/shreekunal/DSA-Practice/tree/master/3541-report-spam-message) |
 ## Greedy
 |  |
 | ------- |
