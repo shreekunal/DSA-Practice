@@ -4,11 +4,11 @@ class Solution {
         for (String s : bannedWords) {
             set.add(s);
         }
-        int count = 0;
-        for(String s: message){
-            if(set.contains(s)) count++;
-            if(count == 2) return true;
+        int cnt = 0;
+        for (int i = 0; i < message.length && cnt <= 2; i++) {
+            if (set.contains(message[i]))
+                cnt++;
         }
-        return false;
+        return cnt >= 2 ? true : false;
     }
 }
