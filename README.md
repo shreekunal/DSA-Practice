@@ -55,6 +55,7 @@ Stay tuned for updates! 🚀
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1694-make-sum-divisible-by-p](https://github.com/shreekunal/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1944-truncate-sentence](https://github.com/shreekunal/DSA-Practice/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -145,6 +146,7 @@ Stay tuned for updates! 🚀
 | [1611-making-file-names-unique](https://github.com/shreekunal/DSA-Practice/tree/master/1611-making-file-names-unique) |
 | [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
+| [1944-truncate-sentence](https://github.com/shreekunal/DSA-Practice/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
