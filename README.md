@@ -97,6 +97,7 @@ Stay tuned for updates! 🚀
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2427-first-letter-to-appear-twice](https://github.com/shreekunal/DSA-Practice/tree/master/2427-first-letter-to-appear-twice) |
 | [3541-report-spam-message](https://github.com/shreekunal/DSA-Practice/tree/master/3541-report-spam-message) |
 ## Math
 |  |
@@ -145,6 +146,7 @@ Stay tuned for updates! 🚀
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/shreekunal/DSA-Practice/tree/master/2235-capitalize-the-title) |
+| [2427-first-letter-to-appear-twice](https://github.com/shreekunal/DSA-Practice/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3207-make-three-strings-equal](https://github.com/shreekunal/DSA-Practice/tree/master/3207-make-three-strings-equal) |
@@ -213,6 +215,7 @@ Stay tuned for updates! 🚀
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shreekunal/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2427-first-letter-to-appear-twice](https://github.com/shreekunal/DSA-Practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Stay tuned for updates! 🚀
 | [0342-power-of-four](https://github.com/shreekunal/DSA-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shreekunal/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/shreekunal/DSA-Practice/tree/master/0795-k-th-symbol-in-grammar) |
+| [2427-first-letter-to-appear-twice](https://github.com/shreekunal/DSA-Practice/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
