@@ -69,6 +69,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1806-count-of-matches-in-tournament](https://github.com/shreekunal/DSA-Practice/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -118,6 +119,7 @@ Stay tuned for updates! 🚀
 | [1146-greatest-common-divisor-of-strings](https://github.com/shreekunal/DSA-Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/shreekunal/DSA-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shreekunal/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/shreekunal/DSA-Practice/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/shreekunal/DSA-Practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
