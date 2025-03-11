@@ -147,6 +147,7 @@ Stay tuned for updates! 🚀
 | [1619-path-crossing](https://github.com/shreekunal/DSA-Practice/tree/master/1619-path-crossing) |
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/shreekunal/DSA-Practice/tree/master/1944-truncate-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/shreekunal/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shreekunal/DSA-Practice/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -235,6 +236,7 @@ Stay tuned for updates! 🚀
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/shreekunal/DSA-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1894-merge-strings-alternately](https://github.com/shreekunal/DSA-Practice/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/shreekunal/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -310,6 +312,7 @@ Stay tuned for updates! 🚀
 | [0394-decode-string](https://github.com/shreekunal/DSA-Practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shreekunal/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [2128-reverse-prefix-of-word](https://github.com/shreekunal/DSA-Practice/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/shreekunal/DSA-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
