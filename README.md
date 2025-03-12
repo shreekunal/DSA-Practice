@@ -56,6 +56,7 @@ Stay tuned for updates! 🚀
 | [1657-find-the-winner-of-an-array-game](https://github.com/shreekunal/DSA-Practice/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1694-make-sum-divisible-by-p](https://github.com/shreekunal/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shreekunal/DSA-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-find-the-highest-altitude](https://github.com/shreekunal/DSA-Practice/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/shreekunal/DSA-Practice/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -287,6 +288,7 @@ Stay tuned for updates! 🚀
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreekunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shreekunal/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
+| [1833-find-the-highest-altitude](https://github.com/shreekunal/DSA-Practice/tree/master/1833-find-the-highest-altitude) |
 ## Union Find
 |  |
 | ------- |
