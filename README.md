@@ -43,6 +43,7 @@ Stay tuned for updates! 🚀
 | [0605-can-place-flowers](https://github.com/shreekunal/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/shreekunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/shreekunal/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [0879-maximize-distance-to-closest-person](https://github.com/shreekunal/DSA-Practice/tree/master/0879-maximize-distance-to-closest-person) |
@@ -288,6 +289,7 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreekunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shreekunal/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1694-make-sum-divisible-by-p](https://github.com/shreekunal/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/shreekunal/DSA-Practice/tree/master/1833-find-the-highest-altitude) |
 ## Union Find
