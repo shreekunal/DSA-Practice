@@ -44,6 +44,7 @@ Stay tuned for updates! 🚀
 | [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
+| [0879-maximize-distance-to-closest-person](https://github.com/shreekunal/DSA-Practice/tree/master/0879-maximize-distance-to-closest-person) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shreekunal/DSA-Practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/shreekunal/DSA-Practice/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1293-three-consecutive-odds](https://github.com/shreekunal/DSA-Practice/tree/master/1293-three-consecutive-odds) |
