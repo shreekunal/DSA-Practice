@@ -42,6 +42,7 @@ Stay tuned for updates! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/shreekunal/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/shreekunal/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shreekunal/DSA-Practice/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/shreekunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/shreekunal/DSA-Practice/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/shreekunal/DSA-Practice/tree/master/0816-design-hashset) |
 | [0879-maximize-distance-to-closest-person](https://github.com/shreekunal/DSA-Practice/tree/master/0879-maximize-distance-to-closest-person) |
@@ -332,4 +333,8 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shreekunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
