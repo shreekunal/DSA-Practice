@@ -316,6 +316,7 @@ Stay tuned for updates! 🚀
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreekunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/shreekunal/DSA-Practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shreekunal/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -339,4 +340,16 @@ Stay tuned for updates! 🚀
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shreekunal/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreekunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreekunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shreekunal/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
