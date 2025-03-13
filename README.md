@@ -65,6 +65,7 @@ Stay tuned for updates! 🚀
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shreekunal/DSA-Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/shreekunal/DSA-Practice/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shreekunal/DSA-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2714-left-and-right-sum-differences](https://github.com/shreekunal/DSA-Practice/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/shreekunal/DSA-Practice/tree/master/2756-buy-two-chocolates) |
 | [3429-special-array-i](https://github.com/shreekunal/DSA-Practice/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/shreekunal/DSA-Practice/tree/master/3430-count-days-without-meetings) |
@@ -292,6 +293,7 @@ Stay tuned for updates! 🚀
 | [0724-find-pivot-index](https://github.com/shreekunal/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1694-make-sum-divisible-by-p](https://github.com/shreekunal/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/shreekunal/DSA-Practice/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/shreekunal/DSA-Practice/tree/master/2714-left-and-right-sum-differences) |
 ## Union Find
 |  |
 | ------- |
