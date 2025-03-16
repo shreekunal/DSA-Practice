@@ -31,6 +31,7 @@ Stay tuned for updates! 🚀
 | [0078-subsets](https://github.com/shreekunal/DSA-Practice/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shreekunal/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shreekunal/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0204-count-primes](https://github.com/shreekunal/DSA-Practice/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreekunal/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/shreekunal/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -116,6 +117,7 @@ Stay tuned for updates! 🚀
 | [0013-roman-to-integer](https://github.com/shreekunal/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/shreekunal/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/shreekunal/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/shreekunal/DSA-Practice/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/shreekunal/DSA-Practice/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/shreekunal/DSA-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shreekunal/DSA-Practice/tree/master/0326-power-of-three) |
@@ -339,6 +341,7 @@ Stay tuned for updates! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shreekunal/DSA-Practice/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shreekunal/DSA-Practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -389,4 +392,8 @@ Stay tuned for updates! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/shreekunal/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shreekunal/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreekunal/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shreekunal/DSA-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
