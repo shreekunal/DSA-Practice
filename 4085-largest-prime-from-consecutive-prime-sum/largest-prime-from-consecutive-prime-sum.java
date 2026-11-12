@@ -3,11 +3,6 @@ class Solution {
         boolean[] prime = new boolean[n + 1];
         Arrays.fill(prime, true);
 
-        if (n >= 0)
-            prime[0] = false;
-        if (n >= 1)
-            prime[1] = false;
-
         // Sieve of Eratosthenes
         for (int i = 2; i <= n / i; i++) {
             if (prime[i]) {
